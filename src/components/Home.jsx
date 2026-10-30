@@ -25,7 +25,7 @@ function Home() {
 
           {/* ===== PUT YOUR GITHUB LINK HERE ===== */}
           <a
-            href="https://github.com/korpenishant0405-beep"
+            href="https://github.com/korpenishant11-cloud"
             target="_blank"
             rel="noreferrer"
             className="btn secondary"
@@ -49,7 +49,7 @@ function Home() {
       <div className="hero-image">
         {/* ===== PUT YOUR PHOTO IN public/profile.jpg ===== */}
         <div className="image-wrapper">
-          <img src="/profile1.jpg" alt="YOUR NAME" />
+          <img src="/profile1.jpg" alt="Nishant Korpe" />
         </div>
       </div>
     </section>

@@ -26,7 +26,7 @@ function Contact() {
 
           {/* ===== GITHUB ===== */}
           <a
-            href="https://github.com/korpenishant0405-beep"
+            href="https://github.com/korpenishant11-cloud"
             target="_blank"
             rel="noreferrer"
             className="social-card"
